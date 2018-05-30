@@ -1,2 +1,2 @@
 # sysinfo-electron-app
-Basic system monitor application. 
+Desktop application that displays basic system information.
