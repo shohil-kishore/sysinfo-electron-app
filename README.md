@@ -1,2 +1,2 @@
 # sysinfo-electron-app
-Desktop application that displays basic system information.
+Desktop application that displays basic system information (Electron Framework).
