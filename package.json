@@ -1,0 +1,22 @@
+{
+  "name": "sysinfo-electron-app",
+  "version": "1.0.0",
+  "description": "Basic system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shohil-kishore/sysinfo-electron-app.git"
+  },
+  "author": "Shohil Kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shohil-kishore/sysinfo-electron-app/issues"
+  },
+  "homepage": "https://github.com/shohil-kishore/sysinfo-electron-app#readme",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
