@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shohil-kishore/sysinfo-electron-app#readme",
   "dependencies": {
-    "electron": "^2.0.2"
+    "electron": "^9.4.0"
   }
 }
